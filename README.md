@@ -58,7 +58,7 @@ Chu kỳ: Đỏ 5s -> Đỏ+Vàng 2s -> Xanh 5s -> Vàng 2s (đúng luật giao 
 
 ### 🎥 Demo
 - Ảnh mạch thực tế: `/images/`
-- Video full: [Link Google Drive của bạn]
+- Video full: (https://drive.google.com/file/d/1Ui5PWTadafHPtjFwM5EM-tDFJA1YyXQn/view?usp=drive_link)
 
 ---
 **Author:** Phương Nguyễn - Day 18 Project
